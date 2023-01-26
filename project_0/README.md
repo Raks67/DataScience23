@@ -1,7 +1,7 @@
 # Проект 0. Угадай число
 ## Оглавление
-[1.Описание](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Описание проекта)
-[2.Кейс](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Какой кейс решаем)
+[1.Описание](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Описание-проекта)
+[2.Кейс](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Какой-кейс-решаем)
 [3.Данные](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Краткая-информация о данных)
 [4.Этапы](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#этапы-работы-над-проектом)
 [5.Результат](https://github.com/Raks67/DataScience23/blob/main/project_0/README.md#Результат)
